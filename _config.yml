@@ -1,0 +1,12 @@
+
+title: 鷺島式
+email: yaoi19041@gmail.com
+description: 
+url: "https://sagishimashiki.github.io"
+
+lang: ja
+timezone: Asia/Tokyo
+
+plugins:
+  - jekyll-sitemap
+
