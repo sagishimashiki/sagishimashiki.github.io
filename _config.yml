@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 title: 鷺島式
 email: yaoi19041@gmail.com
 description: 
@@ -7,20 +5,3 @@ url: "https://sagishimashiki.github.io"
 
 lang: ja
 timezone: Asia/Tokyo
-
-gems:
-  - jekyll-sitemap
-
-=======
-
-title: 鷺島式
-email: yaoi19041@gmail.com
-description: 
-url: "https://sagishimashiki.github.io"
-
-lang: ja
-timezone: Asia/Tokyo
-
-
-
->>>>>>> 7bc9e63 (upload all)
