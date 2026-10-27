@@ -21,7 +21,6 @@ url: "https://sagishimashiki.github.io"
 lang: ja
 timezone: Asia/Tokyo
 
-plugins:
-  - jekyll-sitemap
+
 
 >>>>>>> 7bc9e63 (upload all)
